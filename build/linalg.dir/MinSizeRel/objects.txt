@@ -1,0 +1,4 @@
+C:/Users/Hp/Downloads/linalg-master(2)/linalg-master/build/linalg.dir/MinSizeRel/Node.obj
+C:/Users/Hp/Downloads/linalg-master(2)/linalg-master/build/linalg.dir/MinSizeRel/PipeNetwork.obj
+C:/Users/Hp/Downloads/linalg-master(2)/linalg-master/build/linalg.dir/MinSizeRel/Tube.obj
+C:/Users/Hp/Downloads/linalg-master(2)/linalg-master/build/linalg.dir/MinSizeRel/linalg.obj

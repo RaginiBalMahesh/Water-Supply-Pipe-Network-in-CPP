@@ -1,0 +1,5 @@
+C:/Users/Hp/Downloads/linalg-master(2)/linalg-master/build/CMakeFiles/linalg.dir
+C:/Users/Hp/Downloads/linalg-master(2)/linalg-master/build/CMakeFiles/linalg_testrunner.dir
+C:/Users/Hp/Downloads/linalg-master(2)/linalg-master/build/CMakeFiles/INSTALL.dir
+C:/Users/Hp/Downloads/linalg-master(2)/linalg-master/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Hp/Downloads/linalg-master(2)/linalg-master/build/CMakeFiles/ZERO_CHECK.dir
